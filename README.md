@@ -21,13 +21,13 @@ The API Gateway serves as the entry point for external clients, routing requests
 ### Getting Started
 Clone the repository:
 
-git clone [https://github.com/your-username/e-commerce-microservices.git ](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka)
+1-git clone [https://github.com/your-username/e-commerce-microservices.git ](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka)
 
-1-Set up and start each microservice individually. Ensure Eureka is started first.
+2-Set up and start each microservice individually. Ensure Eureka is started first.
 
-2-Access the Eureka dashboard Discovery at http://localhost:8761 to verify service registration.
+3-Access the Eureka dashboard Discovery at http://localhost:8761 to verify service registration.
 
-3-Start sending requests through the API Gateway at http://localhost:8765.
+4-Start sending requests through the API Gateway at http://localhost:8765.
 
 ### Configuration
 Adjust the configuration files for each microservice according to your environment and requirements. Update application.yml files with appropriate service names, ports, and Eureka server information.
