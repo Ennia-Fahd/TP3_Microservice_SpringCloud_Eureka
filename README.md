@@ -21,7 +21,8 @@ The API Gateway serves as the entry point for external clients, routing requests
 ### Getting Started
 Clone the repository:
 
-``git clone https://github.com/your-username/e-commerce-microservices.git
+git clone https://github.com/your-username/e-commerce-microservices.git 
+
 1-Set up and start each microservice individually. Ensure Eureka is started first.
 
 2-Access the Eureka dashboard Discovery at http://localhost:8761 to verify service registration.
