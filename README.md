@@ -19,9 +19,7 @@ The Billing Service is responsible for processing and managing billing transacti
 The API Gateway serves as the entry point for external clients, routing requests to the appropriate microservices. It enhances security and simplifies the overall architecture (port 9999).
 
 ### Getting Started
-Clone the repository:
-
-1-Git clone [https://github.com/your-username/e-commerce-microservices.git ](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka)
+1-Clone the repository: Git clone [https://github.com/your-username/e-commerce-microservices.git ](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka)
 
 2-Set up and start each microservice individually. Ensure Eureka is started first.
 
