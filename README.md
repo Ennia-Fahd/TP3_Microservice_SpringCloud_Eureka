@@ -21,7 +21,7 @@ The API Gateway serves as the entry point for external clients, routing requests
 ### Getting Started
 Clone the repository:
 
-1-git clone [https://github.com/your-username/e-commerce-microservices.git ](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka)
+1-Git clone [https://github.com/your-username/e-commerce-microservices.git ](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka)
 
 2-Set up and start each microservice individually. Ensure Eureka is started first.
 
@@ -36,15 +36,15 @@ Adjust the configuration files for each microservice according to your environme
 Utilize Spring Cloud Feign or RestTemplate for service-to-service communication. Microservices communicate with each other using their registered names in the Eureka server.
 
 ### Routes :
-##### localhost:9999/CUSTOMER-SERVICE/customers : Display the list of all Customer-Service customers.
+##### http://localhost:9999/CUSTOMER-SERVICE/customers : Display the list of all Customer-Service customers.
 ![Customers](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka/assets/92646945/2124e73e-b074-4bcd-8f88-06f7dc9d40fe)
-##### localhost:9999/Inventory-SERVICE/products : Display the list of Inventory-Service products.
+##### http://localhost:9999/Inventory-SERVICE/products : Display the list of Inventory-Service products.
 ![Products](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka/assets/92646945/5edb3705-68c0-45e8-8dff-c6b74de17db0)
-##### localhost:9999/BILLING-SERVICE/bills : Consult the list of invoices for the Billing-Service department.
+##### http://localhost:9999/BILLING-SERVICE/bills : Consult the list of invoices for the Billing-Service department.
 ![Bills](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka/assets/92646945/a74f7ea6-3ec0-4823-93fa-2be4cb236a07)
-##### localhost:9999/BILLING-SERVICE/productsItems : Consult the list of Billing-Service products.
+##### http://localhost:9999/BILLING-SERVICE/productsItems : Consult the list of Billing-Service products.
 ![productItems](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka/assets/92646945/c74cf0cb-375c-411d-9492-142fdc1ebbb7)
-##### localhost:9999/BILLING-SERVICE/bills/{id} : View the details of an bills by its id.
+##### http://localhost:9999/BILLING-SERVICE/bills/{id} : View the details of an bills by its id.
 ![FullBill1](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka/assets/92646945/67234bc3-02ca-4e59-a198-dba7a8501be9)
 ##### http://localhost:8761/ : Management of different services with Eureka.
 ![discovery](https://github.com/Ennia-Fahd/TP3_Microservice_SpringCloud_Eureka/assets/92646945/4e795e88-172f-4e96-b180-ce175d8a825d)
