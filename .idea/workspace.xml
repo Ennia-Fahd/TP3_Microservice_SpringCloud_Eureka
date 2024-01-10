@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccb7a269-a88f-49be-b28b-8e85a859d6f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TP4/config-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/config-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/config-service/.idea/config-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/config-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/config-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/config-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/config-service/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/config-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/.idea/mavenExecutorSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/config-repo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/ecom-emsi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/ecom-web-app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP4/ecom-emsi/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sage/Gestion commerciale/GeCoMaes.rgc" beforeDir="false" afterPath="$PROJECT_DIR$/../Sage/Gestion commerciale/GeCoMaes.rgc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel" beforeDir="false" afterPath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/apple-touch-icon-retina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/grails-cupsonly-logo-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/grails.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/monument.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/database_add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/database_delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/database_edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/database_save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/database_table.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/exclamation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/information.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/shadow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/sorted_asc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/skin/sorted_desc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/images/spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/javascripts/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/javascripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/javascripts/fileUploadScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/javascripts/jquery-2.2.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/stylesheets/application.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/stylesheets/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/stylesheets/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/assets/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/conf/application.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/conf/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/conf/logback.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/conf/spring/resources.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/controllers/grails_mbds_22_23/IllustrationController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/controllers/grails_mbds_22_23/POIController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/controllers/grails_mbds_22_23/ParcoursController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/controllers/grails_mbds_22_23/RoleController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/controllers/grails_mbds_22_23/UserController.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/controllers/grails_mbds_23_24/UrlMappings.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/domain/grails_mbds_22_23/Illustration.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/domain/grails_mbds_22_23/POI.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/domain/grails_mbds_22_23/Parcours.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/domain/grails_mbds_22_23/Role.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/domain/grails_mbds_22_23/User.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/domain/grails_mbds_22_23/UserRole.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_cs.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_da.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_es.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_it.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_nb.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_nl.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_pl.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_pt_BR.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_pt_PT.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_ru.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_sk.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_sv.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_th.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/i18n/messages_zh_CN.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/init/grails_mbds_23_24/Application.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/init/grails_mbds_23_24/BootStrap.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/services/grails_mbds_22_23/IllustrationService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/services/grails_mbds_22_23/POIService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/services/grails_mbds_22_23/ParcoursService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/services/grails_mbds_22_23/RoleService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/services/grails_mbds_22_23/UserRoleService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/services/grails_mbds_22_23/UserService.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/POI/create.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/POI/edit.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/POI/index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/POI/show.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/error.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/illustration/create.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/illustration/edit.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/illustration/index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/illustration/show.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/layouts/main.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/login/auth.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/notFound.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/parcours/create.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/parcours/edit.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/parcours/index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/parcours/show.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/role/create.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/role/edit.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/role/index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/role/show.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/user/create.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/user/edit.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/user/index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/user/show.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/userRole/create.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/userRole/edit.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/userRole/index.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-app/views/userRole/show.gsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grails-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grailsw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/grailsw.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/integration-test/groovy/grails_mbds_22_23/IllustrationServiceSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/integration-test/groovy/grails_mbds_22_23/POIServiceSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/integration-test/groovy/grails_mbds_22_23/ParcoursServiceSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/integration-test/groovy/grails_mbds_22_23/RoleServiceSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/integration-test/groovy/grails_mbds_22_23/UserRoleServiceSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/integration-test/groovy/grails_mbds_22_23/UserServiceSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/integration-test/resources/GebConfig.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/main/groovy/grails_mbds_22_23/UserPasswordEncoderListener.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/FileUploadControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/IllustrationControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/IllustrationSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/POIControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/POISpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/ParcoursControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/ParcoursSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/RoleControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/UserControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/UserRoleControllerSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_22_23/UserServiceImplServiceSpec.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grails-framework-fahd-ennia-ismail-bouchghel-main/src/test/groovy/grails_mbds_23_24/SearchServiceSpec.groovy" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ajv2xQIxFC2agpcCtFMom4hopd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/user/Documents/Microservices-Architecture-with-Spring-Coud-Eureka-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.BillingServiceApplication">
+    <configuration name="BillingServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="billing-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.billingservice.BillingServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="customer-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.customerservice.CustomerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.discoveryservice.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inventory-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.inventoryservice.InventoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccb7a269-a88f-49be-b28b-8e85a859d6f5" name="Changes" comment="" />
+      <created>1704844599987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704844599987</updated>
+      <workItem from="1704844601016" duration="2633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
